@@ -17,7 +17,7 @@ This tool is designed for domain name enthusiasts and investors who want to trac
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/peteralcock/squatto.git
-   cd domain-squatting-tool
+   cd squatto
    ```
 
 2. **Install required dependencies**:
